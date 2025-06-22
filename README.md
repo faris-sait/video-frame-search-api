@@ -97,18 +97,7 @@ Vector Indexing: HNSW algorithm via Qdrant
 Memory Management: Temporary file cleanup
 Async Operations: Non-blocking I/O operations
 
-🤝 Contributing
 
-Fork the repository
-Create a feature branch (git checkout -b feature/amazing-feature)
-Commit your changes (git commit -m 'Add amazing feature')
-Push to the branch (git push origin feature/amazing-feature)
-Open a Pull Request
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-👨‍💻 Author
-Mohammed Faris Sait
 
 GitHub: @faris-sait
 LinkedIn: https://www.linkedin.com/in/farissait
